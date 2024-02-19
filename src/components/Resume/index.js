@@ -18,6 +18,7 @@ function Resume() {
               <a href={myResume} className="download-logo" download>
                 <BsCloudDownload />
               </a>
+              <h3>Download</h3>
               
             </div>
           </div>

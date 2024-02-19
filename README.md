@@ -34,6 +34,7 @@ This project is license under MIT Licence!
 
 ## Link 
 
+https://react-portfolio2-9701de8d1719.herokuapp.com/#resume
 
 ## Usage 
 

@@ -57,24 +57,11 @@ function Contact() {
       </div>
 
       <div className="contact-info">
-        <div>
-          
-          
-          <address>
-            American Fork, UT <br />
-            Phone: <a href="tel:951.310.5642">801.835.0866</a>
-            <br />
-            Email:{" "}
-            <a href="mailto://mejiandrese15@gmail.com">
-              mejiandrese15@gmail.com
-            </a>
-          </address>
-          
-        </div>
+        
 
         {/* contact form section  */}
         <div className="contact-form">
-          <h3>Contact Me</h3>
+          
           <form className="form">
             {/* Name */}
             <label for="contact-name">Your Name</label>

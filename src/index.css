@@ -225,6 +225,7 @@ header nav ul li a:hover {
 .contact-form button:hover {
   color: #e98e06;
   background: #ffff;
+  cursor: pointer;
 }
 
 .contact-form input,
@@ -263,14 +264,16 @@ header nav ul li a:hover {
 
 }
 
-.contact-info>* {
+.contact-info {
   flex: 1;
   margin: 15px;
+  display: flex;
+  justify-content: center;
 }
 
 
 .contact-info div {
-  width: 410px;
+  width: 600px;
   display: inline-block;
   vertical-align: top;
   text-align: left;
